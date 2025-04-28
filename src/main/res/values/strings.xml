@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ClinicOne</string>
+    <string name="welcome">Welcome to Clinic One</string>
+    <string name="description">Your Trusted Healthcare Companion</string>
+    <string name="onboard1Topic">Manage all your patients with ease</string>
+    <string name="oneBoard1Description">Easily manage your patients\' records, appointments, and medical history in one convenient platform</string>
+    <string name="onboard1NextBtn">Next</string>
+    <string name="onboard2topic">Stay Organized Stay On Track</string>
+    <string name="onboard2description">No more misplaced prescriptions or missed appointments. Keep prescriptions and appointment dates organized, ensuring nothing gets lost or forgotten.</string>
+    <string name="onboard3topic">Clinic One</string>
+    <string name="onboard3description">Your Trusted Healthcare Companion</string>
+    <string name="getStarted">Get Started</string>
+
+    <string name="signIn">Sign In</string>
+    <string name="clinic">SignIn as a Clinic</string>
+    <string name="patient">SignIn as Patient</string>
+
+    <string name="successTopic">Registration Submitted Successfully!</string>
+    <string name="success_description">Thank you for registering your clinic. Your details have been submitted successfully. Our team will review and verify your information within 1 to 3 days. You will receive an email confirmation once the verification process is complete. If you have any questions, please contact our support team.</string>
+    <string name="btnDone">Done</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="smallSen">Welcome back to the Clinic One !</string>
+    <string name="userNameTxt">User Name:</string>
+    <string name="pswTxt">Password:</string>
+    <string name="forgetPsw">Forget Password?</string>
+    <string name="signupBtn">Sign Up</string>
+
+    <string name="clinicTopic">Sign in Your Clinic</string>
+    <string name="basicInfo">Basic Information : </string>
+    <string name="contacts">Clinic Contact Information : </string>
+    <string name="location">Location Information : </string>
+    <string name="documents">Required Documents:</string>
+    <string name="other">Other Information : </string>
+    <string name="banner">Pdf format only</string>
+    <string-array name="type">
+        <item>General Clinic</item>
+        <item>Dental Clinic</item>
+        <item>Pediatric Clinic</item>
+        <item>Cardiology Clinic</item>
+    </string-array>
+    
+    <string-array name="city">
+        <item>Ampara</item>
+        <item>Anuradhapura</item>
+        <item>Badulla</item>
+        <item>Batticaloa</item>
+    </string-array>
+
+    <string-array name="province">
+        <item>Central</item>
+        <item>Eastern</item>
+        <item>North Central</item>
+        <item>Northern</item>
+    </string-array>
+
+    <string-array name="services">
+        <item>General  Consultation</item>
+        <item>Specialist Consultation</item>
+        <item>Pediatrics</item>
+        <item>Laboratory Test</item>
+    </string-array>
+</resources>
